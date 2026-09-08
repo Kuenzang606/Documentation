@@ -30,10 +30,9 @@ title: About Me
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"You are never too old to set another goal or to dream a new dream."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+Hi, I’m Kuenzang Dolma, someone who enjoys taking my time with things and learning through the process. I’m interested in creativity, design, and experimenting with different ideas and materials. I don’t always have everything figured out at the start, but I like seeing where an idea goes and making adjustments along the way. What drives me is mostly curiosity and the satisfaction of creating something that feels personal and well thought out.
 
 </div>
 
@@ -52,21 +51,16 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 <div markdown>
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+<span class="skill-badge">Sketches</span>
+<span class="skill-badge">Creative Crafts</span>
+<span class="skill-badge">3D Crafts</span>
+<span class="skill-badge">Model Making</span>
+<span class="skill-badge">Attention to Detail</span>
+<span class="skill-badge">Visual Design</span>
+<span class="skill-badge">Curiosity</span>
 
 </div>
 
-!!! tip "Customize Your Skills"
-
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
 
 <hr class="section-divider">
 
