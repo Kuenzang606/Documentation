@@ -66,10 +66,10 @@ Hi, I’m Kuenzang Dolma, someone who enjoys taking my time with things and lear
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- ⚙️ **Making & Building** — Exploring how things work and turning ideas into physical projects
+- 🎨 **Design & Art** — Interested in visual details, unusual objects, and different forms of creative expression
+- 🔍 **Curiosity & Research** — Looking into subjects that catch my attention and learning more about how they work
+- 🕰️ **History & Old Things** — Drawn to vintage objects, mechanical designs, and the stories behind them
 
 <hr class="section-divider">
 
@@ -77,7 +77,7 @@ Hi, I’m Kuenzang Dolma, someone who enjoys taking my time with things and lear
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
+| :fontawesome-brands-github: GitHub | [Kuenzang606](https://github.com/Kuenzang606) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| :material-email: Email | [kuenzang.dolma2022@academy.bt](mailto:your.email@example.com) |
+| :material-web: Website | [https://kuenzang606.github.io/Documentation/about/](https://kuenzang606.github.io/Documentation/about/) |
