@@ -45,8 +45,8 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2015 – 2022| PP-VI| Damphu Middle Secondary School|
+| 2022 – 2027 | Higher Secondary | The Royal Academy |
 
 ## 🛠️ Skills
 
